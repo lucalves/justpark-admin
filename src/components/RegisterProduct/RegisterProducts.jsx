@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import {Container, Button} from './RegisterProducts.styles';
+import {Container} from './RegisterProducts.styles';
 import SaveButton from '../SaveButton/SaveButton';
 
 const RegisterProducts = () => {
