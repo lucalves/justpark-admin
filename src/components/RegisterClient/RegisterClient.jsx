@@ -12,6 +12,8 @@ const RegisterClient = () => {
   const [city, setCity] = useState('');
   const [userState, setUserState] = useState('');
   const [country, setCountry] = useState('');
+  const clients = [];
+  
   const cliente = {
     name: name,
     sobrenome: lastName,
@@ -23,8 +25,6 @@ const RegisterClient = () => {
     estado: userState,
     pais: country,
   };
-
-  const clients = [];
 
   const handleSubmit = (e) => {
     e.preventDefault();
