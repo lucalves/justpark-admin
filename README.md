@@ -22,4 +22,4 @@ yarn start
 
 ## Licença
 
-Lucas Alves A. © Hiring Coders VTEX 2021
+Lucas Alves © Hiring Coders VTEX 2021
