@@ -1,4 +1,4 @@
-# JustPark Admin
+# justpark-admin
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a1bd984a-be65-4baa-9c51-cde63ed09b73/deploy-status)](https://app.netlify.com/sites/justpark-admin/deploys)
 
